@@ -1,4 +1,7 @@
 # Analytical-Instrument-Qualification
+
+[Link to repo](https://github.com/oicurp/Analytical-Instrument-Qualification)
+
 ## Introduction
 This repo contains python scripts that can be used to :
 1. Automate generation of Word document based on a template.
@@ -10,3 +13,4 @@ This repo contains python scripts that can be used to :
 ### Preparation of Environments
 
 ### Examples
+
